@@ -15,6 +15,5 @@ Plataforma web desarrollada para la RNSC Rey Zamuro, diseñada para reunir, orga
 - [Liberación de monos churucos](https://www.eltiempo.com/colombia/otras-ciudades/tras-rehabilitacion-en-huila-monos-churucos-volvieron-a-la-libertad-300610)
 
 
-## Instituciones relacionadas
-- [Instituto Humboldt](https://www.humboldt.org.co)
-- [Parques Nacionales Naturales](https://www.parquesnacionales.gov.co)
+## Investigaciones realizadas por Universidades
+- [Universidad de los Andes](https://repositorio.uniandes.edu.co/server/api/core/bitstreams/ac5f51cc-8956-4f70-a942-1b58f691be83/content)
