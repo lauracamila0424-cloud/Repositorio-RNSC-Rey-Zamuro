@@ -1,5 +1,5 @@
 
-# Repositorio-RNSC-Rey-Zamuro
+# Repositorio RNSC Rey Zamuro
 ![Portada](Reyzamuro.png)
 
 
