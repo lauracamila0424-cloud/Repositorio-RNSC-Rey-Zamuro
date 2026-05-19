@@ -9,6 +9,9 @@ Plataforma web desarrollada para la RNSC Rey Zamuro, diseñada para reunir, orga
 
 
 ## Biodiversidad en la Reserva
+
+
+## Fauna
 - [SiB Colombia](https://ipt.biodiversidad.co/sib/resource?r=platas_terrasos)
 - [SiB Colombia](https://ipt.biodiversidad.co/sib/resource?r=terrasos_banco-habitat_dos)
 - [SiB Colombia](https://ipt.biodiversidad.co/sib/resource?r=fauna_terrasos)
