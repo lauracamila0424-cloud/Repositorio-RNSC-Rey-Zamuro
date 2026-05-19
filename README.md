@@ -7,7 +7,6 @@ Plataforma web desarrollada para la RNSC Rey Zamuro, diseñada para reunir, orga
 
 -----
 
-# Noticias y referencias externas
 
 ## Biodiversidad en la Reserva
 - [SiB Colombia](https://ipt.biodiversidad.co/sib/resource?r=platas_terrasos)
