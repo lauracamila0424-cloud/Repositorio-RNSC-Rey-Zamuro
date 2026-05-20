@@ -11,12 +11,14 @@ Plataforma web desarrollada para la RNSC Rey Zamuro, diseñada para reunir, orga
 ## Biodiversidad en la Reserva
 
 
+## Flora
+- [Flora](https://ipt.biodiversidad.co/sib/resource?r=platas_terrasos)
+- [Flora](https://ipt.biodiversidad.co/sib/resource?r=terrasos_banco-habitat_dos)
+
 ## Fauna
-- [SiB Colombia](https://ipt.biodiversidad.co/sib/resource?r=platas_terrasos)
-- [SiB Colombia](https://ipt.biodiversidad.co/sib/resource?r=terrasos_banco-habitat_dos)
-- [SiB Colombia](https://ipt.biodiversidad.co/sib/resource?r=fauna_terrasos)
-- [SCRIBD](https://es.scribd.com/document/553884931/Anfibios-de-La-Reserva-Rey-Zamuro-San-Martin-de-Los-Llanos-Colombia)
-- [Pajarear.co](https://pajarear.co/hp/L5951354.html)
+- [Fauna](https://ipt.biodiversidad.co/sib/resource?r=fauna_terrasos)
+- [Anfibios](https://es.scribd.com/document/553884931/Anfibios-de-La-Reserva-Rey-Zamuro-San-Martin-de-Los-Llanos-Colombia)
+- [Aves](https://pajarear.co/hp/L5951354.html)
 
 ## Noticias ambientales
 - [Liberación de monos churucos](https://www.eltiempo.com/colombia/otras-ciudades/tras-rehabilitacion-en-huila-monos-churucos-volvieron-a-la-libertad-300610)
